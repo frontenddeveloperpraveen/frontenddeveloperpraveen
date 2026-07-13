@@ -27,15 +27,6 @@ Ping me on **iamkrpraveen@gmail.com**
 
 <br>
 
-## GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=frontenddeveloperpraveen&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=c9d1d9&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frontenddeveloperpraveen&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=c9d1d9" />
-</div>
-
-<br>
-
 ## Contributions
 
 <div align="center">
